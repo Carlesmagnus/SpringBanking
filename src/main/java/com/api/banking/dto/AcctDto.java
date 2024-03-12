@@ -1,6 +1,6 @@
 package com.api.banking.dto;
 
-import jakarta.persistence.Column;
+import javax.persistence.Column;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 
